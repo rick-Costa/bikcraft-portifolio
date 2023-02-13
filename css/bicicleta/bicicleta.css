@@ -11,6 +11,10 @@
     text-transform: uppercase;
 }
 
+#bicicleta .bicicletas-lista ul {
+    padding: 0 0 2rem 0;
+}
+
 .bicicleta-imagens {
     display: flex;
     flex-wrap: wrap;
