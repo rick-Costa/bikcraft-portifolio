@@ -17,6 +17,9 @@
     color: var(--cor-p5);
     text-transform: uppercase;
     font: 600 1.8rem/1.33 'Poppins', sans-serif;
+    max-width: max-content;
+    border: none;
+    cursor: pointer;
 }
 
 .botao:hover {
