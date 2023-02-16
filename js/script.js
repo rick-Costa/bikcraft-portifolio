@@ -66,3 +66,9 @@ function eventoBicicletas(bicicleta) {
 }
 
 galeria.forEach(eventoBicicletas);
+
+// Animação.
+
+if (window.SimpleAnime) {
+    new SimpleAnime();
+}
